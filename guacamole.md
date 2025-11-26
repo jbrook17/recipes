@@ -4,4 +4,5 @@
 * Lime
 * Salt
 ## Instructions
-* Meke it
+* Make it
+* Eat!

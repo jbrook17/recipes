@@ -4,7 +4,7 @@
 * Lime
 * Salt
 * corriander
-* jalapenos
+* spicy jalapenos
 ## Instructions
 * Make it
 * Eat!
